@@ -29,4 +29,4 @@ O projeto foi inserído dentro da pasta `htdocs` do `xampp` da seguinte maneira 
 6 | // ...
 ```
  - Em `server` está a API Rest feita em PHP e o banco de dados em SQLite (para facilitar a vizualização e importação do projeto caso necessario).
- - Em `app` está a aplicação que faz uso da API recuperando dados do banco de dados do servidor e exibindo-os para o usuário.
+ - Em `app` está a aplicação feita com JQuery e HTML5 + CSS3 que faz uso da API recuperando dados do banco de dados do servidor e exibindo-os para o usuário.
